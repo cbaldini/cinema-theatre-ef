@@ -1,0 +1,12 @@
+C:\Users\Cristian\documents\visual studio 2015\Projects\CineTeatroEF\CineTeatro.DataLayer\bin\Debug\CineTeatro.DataLayer.dll.config
+C:\Users\Cristian\documents\visual studio 2015\Projects\CineTeatroEF\CineTeatro.DataLayer\bin\Debug\CineTeatro.DataLayer.dll
+C:\Users\Cristian\documents\visual studio 2015\Projects\CineTeatroEF\CineTeatro.DataLayer\bin\Debug\CineTeatro.DataLayer.pdb
+C:\Users\Cristian\documents\visual studio 2015\Projects\CineTeatroEF\CineTeatro.DataLayer\bin\Debug\CineTeatro.Common.dll
+C:\Users\Cristian\documents\visual studio 2015\Projects\CineTeatroEF\CineTeatro.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Cristian\documents\visual studio 2015\Projects\CineTeatroEF\CineTeatro.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cristian\documents\visual studio 2015\Projects\CineTeatroEF\CineTeatro.DataLayer\bin\Debug\CineTeatro.Common.pdb
+C:\Users\Cristian\documents\visual studio 2015\Projects\CineTeatroEF\CineTeatro.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Cristian\documents\visual studio 2015\Projects\CineTeatroEF\CineTeatro.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cristian\documents\visual studio 2015\Projects\CineTeatroEF\CineTeatro.DataLayer\obj\Debug\CineTeatro.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\documents\visual studio 2015\Projects\CineTeatroEF\CineTeatro.DataLayer\obj\Debug\CineTeatro.DataLayer.dll
+C:\Users\Cristian\documents\visual studio 2015\Projects\CineTeatroEF\CineTeatro.DataLayer\obj\Debug\CineTeatro.DataLayer.pdb

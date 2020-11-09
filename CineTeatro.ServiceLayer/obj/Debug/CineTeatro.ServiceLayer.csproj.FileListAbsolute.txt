@@ -1,0 +1,11 @@
+C:\Users\Cristian\documents\visual studio 2015\Projects\CineTeatroEF\CineTeatro.ServiceLayer\bin\Debug\CineTeatro.ServiceLayer.dll
+C:\Users\Cristian\documents\visual studio 2015\Projects\CineTeatroEF\CineTeatro.ServiceLayer\bin\Debug\CineTeatro.ServiceLayer.pdb
+C:\Users\Cristian\documents\visual studio 2015\Projects\CineTeatroEF\CineTeatro.ServiceLayer\bin\Debug\CineTeatro.Common.dll
+C:\Users\Cristian\documents\visual studio 2015\Projects\CineTeatroEF\CineTeatro.ServiceLayer\bin\Debug\CineTeatro.DataLayer.dll
+C:\Users\Cristian\documents\visual studio 2015\Projects\CineTeatroEF\CineTeatro.ServiceLayer\bin\Debug\EntityFramework.dll
+C:\Users\Cristian\documents\visual studio 2015\Projects\CineTeatroEF\CineTeatro.ServiceLayer\bin\Debug\CineTeatro.Common.pdb
+C:\Users\Cristian\documents\visual studio 2015\Projects\CineTeatroEF\CineTeatro.ServiceLayer\bin\Debug\CineTeatro.DataLayer.pdb
+C:\Users\Cristian\documents\visual studio 2015\Projects\CineTeatroEF\CineTeatro.ServiceLayer\bin\Debug\EntityFramework.xml
+C:\Users\Cristian\documents\visual studio 2015\Projects\CineTeatroEF\CineTeatro.ServiceLayer\obj\Debug\CineTeatro.ServiceLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\documents\visual studio 2015\Projects\CineTeatroEF\CineTeatro.ServiceLayer\obj\Debug\CineTeatro.ServiceLayer.dll
+C:\Users\Cristian\documents\visual studio 2015\Projects\CineTeatroEF\CineTeatro.ServiceLayer\obj\Debug\CineTeatro.ServiceLayer.pdb
